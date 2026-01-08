@@ -73,7 +73,7 @@ export default function Home() {
 
           <div className="mt-8 text-center text-sm text-gray-600">
             <p>
-              For general inquiries or to chat with Dr. Qaiser's AI assistant, use the chat interface above.
+              For general inquiries or to chat with Dr. Qaiser&apos;s AI assistant, use the chat interface above.
             </p>
           </div>
         </div>
