@@ -2,6 +2,8 @@
 
 A modern, responsive web application that allows users to chat with an AI persona of Dr. Muhammad Affan Qaiser, a renowned Gastroenterologist and Transplant Hepatologist at Advanced GI & Liver Tower, Lahore.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdrzarak%2Flivertower&env=OPENAI_API_KEY&envDescription=OpenAI%20API%20Key%20for%20the%20AI%20chat%20functionality&envLink=https%3A%2F%2Fplatform.openai.com%2Fapi-keys&project-name=livertower&repository-name=livertower)
+
 ## Features
 
 - **ChatGPT-style Interface**: Clean, minimalist design with real-time chat functionality
